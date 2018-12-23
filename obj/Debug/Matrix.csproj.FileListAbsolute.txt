@@ -1,0 +1,7 @@
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Rock0x3FA\OneDrive\Programs\Product\C#\Matrix\Matrix\obj\Debug\Matrix.pdb
